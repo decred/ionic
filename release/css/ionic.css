@@ -3046,10 +3046,10 @@ script {
  *  user zoom.
  */
 html {
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
   font-family: sans-serif;
   /* 1 */
   -webkit-text-size-adjust: 100%;
@@ -3321,10 +3321,10 @@ body,
   text-size-adjust: none;
   -webkit-tap-highlight-color: transparent;
   -webkit-tap-highlight-color: transparent;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
   top: 0;
   right: 0;
   bottom: 0;
@@ -3388,10 +3388,10 @@ body.grade-c {
  * scroll view functionality.
  */
 .scroll {
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
   -webkit-touch-callout: none;
   -webkit-text-size-adjust: none;
   -moz-text-size-adjust: none;
@@ -3869,10 +3869,10 @@ a.subdued {
   display: flex;
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
   position: absolute;
   right: 0;
   left: 0;
@@ -9386,10 +9386,10 @@ a.button {
   pointer-events: auto; }
 
 .disable-user-behavior {
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
   -webkit-touch-callout: none;
   -webkit-tap-highlight-color: transparent;
   -webkit-tap-highlight-color: transparent;
